@@ -129,3 +129,10 @@ The main objective of this project is to gain familiarity with:
 
 ---
 
+# 🎓 Academic Context
+
+Developed as part of a **Fundamentals and applications of artificial intelligence course**
+
+📅 Fall 2024
+
+---
